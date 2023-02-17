@@ -1,5 +1,5 @@
 # script-crypt-decrypt-zip-unzip
-Crearea unor shell script-uri cu scopul arhivarii/dezarhivarii si comprimarii/decomprimarii si criptarii/decriptarii directoarelor continand mai multe fisiere
+Crearea unor shell script-uri cu scopul arhivarii/dezarhivarii, comprimarii/decomprimarii si criptarii/decriptarii directoarelor continand mai multe fisiere
 
 Pentru a rula shell script-ul, se apeleaza din linia de comanda:
   bash inc1.sh
